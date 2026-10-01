@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_price,stock_quantity,product_status
+PROD001,Classic Arabica Beans,Coffee Beans,499,177,ACTIVE
+PROD002,Dark Roast Beans,Coffee Beans,549,166,INACTIVE
+PROD003,Medium Roast Beans,Coffee Beans,529,318,INACTIVE
+PROD004,Espresso Blend,Coffee Beans,599,95,INACTIVE
+PROD005,Cold Brew Blend,Coffee Beans,649,189,INACTIVE
+PROD006,Hazelnut Coffee,Flavoured Coffee,449,31,ACTIVE
+PROD007,Vanilla Coffee,Flavoured Coffee,449,324,INACTIVE
+PROD008,Caramel Coffee,Flavoured Coffee,469,150,ACTIVE
+PROD009,Mocha Coffee,Flavoured Coffee,489,48,INACTIVE
+PROD010,French Vanilla,Flavoured Coffee,479,196,ACTIVE
+PROD011,Coffee Mug,Merchandise,299,497,ACTIVE
+PROD012,Travel Mug,Merchandise,499,83,INACTIVE
+PROD013,French Press,Equipment,999,27,ACTIVE
+PROD014,Coffee Dripper,Equipment,699,44,ACTIVE
+PROD015,Coffee Grinder,Equipment,1499,408,ACTIVE

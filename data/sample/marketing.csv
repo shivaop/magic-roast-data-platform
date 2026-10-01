@@ -1,0 +1,21 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget,conversions
+CAM001,Summer Cold Brew,Facebook,2026-07-28,2026-08-05,75000,378
+CAM002,Monsoon Coffee Fest,Facebook,2025-01-24,2025-02-17,20000,223
+CAM003,Weekend Coffee Sale,Facebook,2025-05-01,2025-05-22,10000,348
+CAM004,New Customer Offer,Google,2026-03-29,2026-04-10,30000,307
+CAM005,Diwali Coffee Sale,Google,2025-08-22,2025-09-14,30000,363
+CAM006,Winter Warmers,Google,2026-01-06,2026-02-02,75000,90
+CAM007,Valentine Coffee Box,Email,2026-07-29,2026-08-05,10000,479
+CAM008,Republic Day Sale,Instagram,2025-12-19,2026-01-08,20000,481
+CAM009,Independence Day Sale,Instagram,2026-03-21,2026-04-07,75000,431
+CAM010,Premium Beans Launch,Email,2025-05-31,2025-06-19,75000,366
+CAM011,Cold Brew Launch,Email,2025-05-31,2025-06-20,10000,421
+CAM012,Coffee Lovers Week,Facebook,2026-07-18,2026-08-06,30000,228
+CAM013,Festive Gift Collection,Instagram,2025-03-16,2025-03-29,75000,266
+CAM014,Mid-Year Sale,Google,2026-03-13,2026-03-23,20000,433
+CAM015,Back to Work Coffee,Email,2026-06-26,2026-07-13,10000,148
+CAM016,Weekend Flash Sale,Facebook,2025-07-16,2025-07-31,75000,96
+CAM017,New Product Launch,Email,2025-09-04,2025-09-29,75000,159
+CAM018,Loyalty Rewards,Google,2025-02-11,2025-02-18,50000,405
+CAM019,First Order Offer,Instagram,2025-08-18,2025-08-25,75000,242
+CAM020,Year End Coffee Sale,Instagram,2026-02-05,2026-02-24,10000,79
